@@ -166,6 +166,7 @@ html{
     width: 100%;
     padding: 0.5rem;
     border-radius: 9px;
+    z-index:-10
 }
 /* utility classes */
 #home h2{
